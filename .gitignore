@@ -15,6 +15,7 @@ AutoBuildLogs/
 lfs/
 hooks/
 /Binaries/
+!Build/**/*.ico
 
 # Wwise Project
 Wwise/IncrementalSoundBankData.xml
